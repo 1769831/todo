@@ -1,0 +1,73 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: grey; */
+    background-color: rgb(237, 234, 234);
+    height: 100%;
+    font-family: '宋体';
+}
+
+#app{
+  /* background-color: azure; */
+  height: 100%;
+  font-family: '宋体';
+}
+.content{
+  width: 600px;
+  height: 400px;
+  background-color: #f5f5f5;
+  margin: 100px auto;
+  overflow-x: hidden;
+}
+.herder{
+  width: 100%;
+  height: 40px;
+  font-family: '宋体';
+  margin: 5px;
+}
+.herder input{
+  font-family: '宋体';
+  height: 40px;
+  line-height: 40px;
+  outline: none;
+  width: 500px;
+   border: none;
+   float: left;
+   font-size: 18px;
+   text-align: center;
+}
+.herder button{
+  width: 95px;
+  border: none;
+  height: 42px;
+  background-color: coral;
+  font-family: '宋体';
+   font-size: 18px;
+}
+.text{
+  height: 50px;
+  line-height: 50px;
+  font-size: 18px;
+  background-color: rgb(215, 250, 220);
+  margin-bottom: 5px;
+}
+.text input{
+  font-size: 40px;
+  width: 30px;
+}
+.text span{
+  display: inline-block;
+  width: 400px;
+}
+.text .btn{
+  float: right;
+  height: 100%;
+}
+.text button{
+   height: 70%;
+   width: 60px;
+   margin-left: 5px;
+}
+
+/*# sourceMappingURL=filename.a2beb218.css.map*/
